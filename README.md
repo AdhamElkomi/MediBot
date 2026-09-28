@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="docs/media/medibot_banner.png" alt="MediBot Banner" width="100%">
+</p>
+
 # MediBot
 
 **MediBot** is a modular mobile robotics project designed for the autonomous transport of medical sample boxes in indoor healthcare environments.
